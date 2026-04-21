@@ -143,8 +143,6 @@ Phase 3 — Automation (Jun 2025)        ░░░░░░░░░░░░  U
 | 🐧 Linux | CLI, File System, Processes, Permissions | ⭐⭐⭐ |
 | 🗃️ SQL | Joins, Queries, Normalization | ⭐⭐⭐ |
 | 🌿 Git | Branching, PRs, GitHub Actions | ⭐⭐⭐⭐ |
-| ☁️ AWS | EC2, S3, IAM (Learning) | ⭐⭐ |
-| 🐳 Docker | Containers, Dockerfile (Learning) | ⭐⭐ |
 
 ---
 
