@@ -22,7 +22,7 @@ mindset    : Discipline > Motivation | Systems > Goals
 status     : 🔨 Building. Learning. Shipping.
 ```
 
-- 🎯 Goal → **Top 10% Cloud/DevOps Engineer**
+- 🎯 Goal → **Future Devops Engineer..**
 - 📚 Currently following a structured **3-month DevOps roadmap**
 - 🐧 Deep-diving into **Linux, Networking & AWS**
 - 🐳 Next up → **Docker → Kubernetes → Terraform**
@@ -39,24 +39,24 @@ status     : 🔨 Building. Learning. Shipping.
   &nbsp;
   <img src="https://skillicons.dev/icons?i=python" height="45" title="Python"/>
   &nbsp;
-  <img src="https://skillicons.dev/icons?i=c" height="45" title="C"/>
+  <!-- <img src="https://skillicons.dev/icons?i=c" height="45" title="C"/>
   &nbsp;
   <img src="https://skillicons.dev/icons?i=cpp" height="45" title="C++"/>
   &nbsp;
   <img src="https://skillicons.dev/icons?i=bash" height="45" title="Bash/Shell"/>
   &nbsp;
   <img src="https://skillicons.dev/icons?i=js" height="45" title="JavaScript"/>
-</p>
+</p> -->
 
 ### 🗄️ Databases
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql" height="45" title="MySQL"/>
-  &nbsp;
+  <!-- &nbsp;
   <img src="https://skillicons.dev/icons?i=postgresql" height="45" title="PostgreSQL"/>
   &nbsp;
   <img src="https://skillicons.dev/icons?i=mongodb" height="45" title="MongoDB"/>
-</p>
+</p> -->
 
 ### ☁️ Cloud & DevOps
 
@@ -65,7 +65,7 @@ status     : 🔨 Building. Learning. Shipping.
   &nbsp;
   <img src="https://skillicons.dev/icons?i=linux" height="45" title="Linux"/>
   &nbsp;
-  <img src="https://skillicons.dev/icons?i=docker" height="45" title="Docker"/>
+  <!-- <img src="https://skillicons.dev/icons?i=docker" height="45" title="Docker"/>
   &nbsp;
   <img src="https://skillicons.dev/icons?i=kubernetes" height="45" title="Kubernetes"/>
   &nbsp;
@@ -76,7 +76,7 @@ status     : 🔨 Building. Learning. Shipping.
   <img src="https://skillicons.dev/icons?i=githubactions" height="45" title="GitHub Actions"/>
   &nbsp;
   <img src="https://skillicons.dev/icons?i=jenkins" height="45" title="Jenkins"/>
-</p>
+</p> -->
 
 ### 🔧 Dev Tools & Version Control
 
@@ -92,18 +92,6 @@ status     : 🔨 Building. Learning. Shipping.
   <img src="https://skillicons.dev/icons?i=nginx" height="45" title="Nginx"/>
   &nbsp;
   <img src="https://skillicons.dev/icons?i=postman" height="45" title="Postman"/>
-</p>
-
-### 🌐 Web & Backend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs" height="45" title="Node.js"/>
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=express" height="45" title="Express.js"/>
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=html" height="45" title="HTML5"/>
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=css" height="45" title="CSS3"/>
 </p>
 
 ---
@@ -134,13 +122,13 @@ Phase 3 — Automation (Jun 2025)        ░░░░░░░░░░░░  U
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rhythmgupta19&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhythmgupta19&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117" height="180em"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rhythmgupta19&theme=tokyonight&hide_border=true&background=0d1117" height="180em"/>
 
 </div>
 
@@ -162,24 +150,23 @@ Phase 3 — Automation (Jun 2025)        ░░░░░░░░░░░░  U
 
 ## 🔥 Current Projects
 
-- 🎓 **Learnn Easy** — Student portal with Node.js/Express + glassmorphism UI
 - 📊 **DevOps Tracker** — Custom HTML daily habit + study progress tracker
-- 🤖 **AI Tools Channel** — Building & showcasing AI-powered web tools
+- 🤖 **DropZone**  -- Web page to convert pdf's into sharable link
 
 ---
 
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/www.linkedin.com/in/ridam-gupta-73ab4b328" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" title="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">
+  <a href="https://github.com/https://github.com/rhythmgupta19" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="40" title="GitHub"/>
   </a>
   &nbsp;
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:ridamg636@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>
   </a>
 </p>
@@ -192,6 +179,6 @@ Phase 3 — Automation (Jun 2025)        ░░░░░░░░░░░░  U
 
 *"Discipline is doing it even when you don't feel like it."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=2c9ef7&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=rhythmgupta19&color=2c9ef7&style=flat-square&label=Profile+Views)
 
 </div>
