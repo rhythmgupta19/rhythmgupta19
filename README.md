@@ -48,7 +48,7 @@ fun_fact    : My best code is written between 10 PM – 2 AM 🦉
 
 <!-- ═══════════════════ CURRENT LEARNING ROADMAP ═══════════════════ -->
 
-## `> cat roadmap.sh`
+## `>roadmap.sh`
 
 <div align="center">
 
@@ -71,7 +71,7 @@ fun_fact    : My best code is written between 10 PM – 2 AM 🦉
 
 <!-- ═══════════════════ TECH STACK ═══════════════════ -->
 
-## `> ls tech_stack/`
+## `> tech_stack/`
 
 **☁️ Cloud & DevOps**
 
@@ -103,7 +103,7 @@ fun_fact    : My best code is written between 10 PM – 2 AM 🦉
 
 <!-- ═══════════════════ PROJECTS ═══════════════════ -->
 
-## `> ls projects/ --highlight`
+## `> projects/ --highlight`
 
 <div align="center">
 <table>
@@ -171,7 +171,7 @@ A Python automation tool that silently watches your downloads folder and sorts f
 
 <!-- ═══════════════════ ACHIEVEMENTS ═══════════════════ -->
 
-## `> ls achievements/`
+## `> achievements/`
 
 <div align="center">
 
