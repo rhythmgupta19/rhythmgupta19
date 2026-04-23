@@ -146,12 +146,13 @@ A Python automation tool that silently watches your downloads folder and sorts f
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rhythmgupta19&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d1a&title_color=00f5ff&icon_color=7b2ff7&text_color=ffffff&ring_color=00f5ff&border_radius=12" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rhythmgupta19&theme=radical&hide_border=true&background=0d0d1a&ring=00f5ff&fire=ff4757&currStreakLabel=00f5ff&sideLabels=7b2ff7&dates=ffffff&border_radius=12" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rhythmgupta19&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d1a&title_color=00f5ff&icon_color=7b2ff7&text_color=ffffff&ring_color=00f5ff&border_radius=12&cache_seconds=60" />
+
+<img width="49%" src="https://streak-stats.demolab.com?user=rhythmgupta19&theme=radical&hide_border=true&background=0d0d1a&ring=00f5ff&fire=ff4757&currStreakLabel=00f5ff&sideLabels=7b2ff7&dates=ffffff&border_radius=12" />
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhythmgupta19&layout=compact&theme=radical&hide_border=true&bg_color=0d0d1a&title_color=00f5ff&text_color=ffffff&border_radius=12&langs_count=8" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhythmgupta19&layout=compact&theme=radical&hide_border=true&bg_color=0d0d1a&title_color=00f5ff&text_color=ffffff&border_radius=12&langs_count=8&cache_seconds=60" />
 
 </div>
 
