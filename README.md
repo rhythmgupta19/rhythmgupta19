@@ -36,7 +36,7 @@ name        : Rhythm Gupta
 role        : DevOps & Cloud Engineer (In Progress)
 location    : India 🇮🇳
 status      : B.Tech CSE — Semester 4
-focus       : Linux → AWS → Docker → Kubernetes → CI/CD
+focus       : Linux → Docker → AWS -> Kubernetes → CI/CD
 superpower  : Building things that actually work
 currently   : Grinding DevOps roadmap |
 fun_fact    : My best code is written between 10 PM – 2 AM 🦉
